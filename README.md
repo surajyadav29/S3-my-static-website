@@ -45,7 +45,7 @@ The website is built using HTML, CSS, and JavaScript and deployed on AWS cloud.
 ## Screenshots
 
 ### Website Output
-![Website](Website Output.png)
+![Website](screenshot.png)
 
 ### S3 Bucket
 ![S3 Bucket](s3.png)
