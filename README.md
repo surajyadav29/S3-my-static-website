@@ -1,12 +1,12 @@
-# 🌐 Static Website Hosting using AWS S3
+#  Static Website Hosting using AWS S3
 
-## 📌 Project Overview
+## Project Overview
 This project demonstrates how to host a static website using Amazon S3.  
 The website is built using HTML, CSS, and JavaScript and deployed on AWS cloud.
 
 ---
 
-## 🚀 Features
+## Features
 - Simple and responsive design  
 - Hosted on AWS S3  
 - Publicly accessible website  
@@ -14,7 +14,7 @@ The website is built using HTML, CSS, and JavaScript and deployed on AWS cloud.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - HTML  
 - CSS  
 - JavaScript  
@@ -22,7 +22,7 @@ The website is built using HTML, CSS, and JavaScript and deployed on AWS cloud.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 /project
 ├── index.html
 ├── style.css
@@ -32,7 +32,7 @@ The website is built using HTML, CSS, and JavaScript and deployed on AWS cloud.
 
 ---
 
-## ⚙️ Steps to Deploy
+## Steps to Deploy
 1. Create an S3 bucket  
 2. Upload website files  
 3. Enable static website hosting  
@@ -41,20 +41,11 @@ The website is built using HTML, CSS, and JavaScript and deployed on AWS cloud.
 
 ---
 
-## 🌍 Live Website
-Add your S3 URL here:
-http://your-bucket-name.s3-website-region.amazonaws.com
 
+## Screenshots
 
-## 📸 Screenshots
-
-### 🌐 Website Output
+### Website Output
 ![Website](screenshot.png)
 
-### ☁️ S3 Bucket
+### S3 Bucket
 ![S3 Bucket](s3.png)
-
-
-## 👨‍💻 Author
-
-Ajay Yadav
