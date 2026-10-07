@@ -18,16 +18,7 @@ The website is built using HTML, CSS, and JavaScript and deployed on AWS cloud.
 - HTML  
 - CSS  
 - JavaScript  
-- AWS S3  
-
----
-
-## Project Structure
-/project
-├── index.html
-├── style.css
-├── script.js
-└── image.png
+- AWS S3 
 
 
 ---
